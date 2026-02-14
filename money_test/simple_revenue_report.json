@@ -1,0 +1,641 @@
+{
+  "simulation_date": "2026-02-14T13:27:55.151318",
+  "total_30day_net": 761.75,
+  "daily_average_net": 25.39,
+  "platform_results": {
+    "Medium": {
+      "total_revenue": 282.85,
+      "total_net": 258.85,
+      "avg_daily_net": 8.63,
+      "daily_results": [
+        {
+          "day": 1,
+          "revenue": 10.18,
+          "net": 9.38
+        },
+        {
+          "day": 2,
+          "revenue": 6.73,
+          "net": 5.93
+        },
+        {
+          "day": 3,
+          "revenue": 2.9,
+          "net": 2.1
+        },
+        {
+          "day": 4,
+          "revenue": 12.32,
+          "net": 11.52
+        },
+        {
+          "day": 5,
+          "revenue": 11.37,
+          "net": 10.57
+        },
+        {
+          "day": 6,
+          "revenue": 11.07,
+          "net": 10.27
+        },
+        {
+          "day": 7,
+          "revenue": 14.58,
+          "net": 13.78
+        },
+        {
+          "day": 8,
+          "revenue": 10.15,
+          "net": 9.35
+        },
+        {
+          "day": 9,
+          "revenue": 2.76,
+          "net": 1.96
+        },
+        {
+          "day": 10,
+          "revenue": 11.84,
+          "net": 11.04
+        },
+        {
+          "day": 11,
+          "revenue": 5.73,
+          "net": 4.93
+        },
+        {
+          "day": 12,
+          "revenue": 13.84,
+          "net": 13.04
+        },
+        {
+          "day": 13,
+          "revenue": 12.81,
+          "net": 12.01
+        },
+        {
+          "day": 14,
+          "revenue": 7.77,
+          "net": 6.97
+        },
+        {
+          "day": 15,
+          "revenue": 8.98,
+          "net": 8.18
+        },
+        {
+          "day": 16,
+          "revenue": 6.51,
+          "net": 5.71
+        },
+        {
+          "day": 17,
+          "revenue": 6.1,
+          "net": 5.3
+        },
+        {
+          "day": 18,
+          "revenue": 9.8,
+          "net": 9.0
+        },
+        {
+          "day": 19,
+          "revenue": 12.73,
+          "net": 11.93
+        },
+        {
+          "day": 20,
+          "revenue": 2.28,
+          "net": 1.48
+        },
+        {
+          "day": 21,
+          "revenue": 5.45,
+          "net": 4.65
+        },
+        {
+          "day": 22,
+          "revenue": 7.37,
+          "net": 6.57
+        },
+        {
+          "day": 23,
+          "revenue": 7.95,
+          "net": 7.15
+        },
+        {
+          "day": 24,
+          "revenue": 7.16,
+          "net": 6.36
+        },
+        {
+          "day": 25,
+          "revenue": 13.63,
+          "net": 12.83
+        },
+        {
+          "day": 26,
+          "revenue": 11.44,
+          "net": 10.64
+        },
+        {
+          "day": 27,
+          "revenue": 11.73,
+          "net": 10.93
+        },
+        {
+          "day": 28,
+          "revenue": 9.82,
+          "net": 9.02
+        },
+        {
+          "day": 29,
+          "revenue": 14.12,
+          "net": 13.32
+        },
+        {
+          "day": 30,
+          "revenue": 13.73,
+          "net": 12.93
+        }
+      ]
+    },
+    "Twitter": {
+      "total_revenue": 146.71,
+      "total_net": 122.71,
+      "avg_daily_net": 4.09,
+      "daily_results": [
+        {
+          "day": 1,
+          "revenue": 1.43,
+          "net": 0.63
+        },
+        {
+          "day": 2,
+          "revenue": 1.28,
+          "net": 0.48
+        },
+        {
+          "day": 3,
+          "revenue": 6.91,
+          "net": 6.11
+        },
+        {
+          "day": 4,
+          "revenue": 4.18,
+          "net": 3.38
+        },
+        {
+          "day": 5,
+          "revenue": 4.85,
+          "net": 4.05
+        },
+        {
+          "day": 6,
+          "revenue": 6.08,
+          "net": 5.28
+        },
+        {
+          "day": 7,
+          "revenue": 3.4,
+          "net": 2.6
+        },
+        {
+          "day": 8,
+          "revenue": 4.3,
+          "net": 3.5
+        },
+        {
+          "day": 9,
+          "revenue": 4.13,
+          "net": 3.33
+        },
+        {
+          "day": 10,
+          "revenue": 6.17,
+          "net": 5.37
+        },
+        {
+          "day": 11,
+          "revenue": 6.65,
+          "net": 5.85
+        },
+        {
+          "day": 12,
+          "revenue": 1.1,
+          "net": 0.3
+        },
+        {
+          "day": 13,
+          "revenue": 5.92,
+          "net": 5.12
+        },
+        {
+          "day": 14,
+          "revenue": 3.79,
+          "net": 2.99
+        },
+        {
+          "day": 15,
+          "revenue": 7.42,
+          "net": 6.62
+        },
+        {
+          "day": 16,
+          "revenue": 6.49,
+          "net": 5.69
+        },
+        {
+          "day": 17,
+          "revenue": 5.63,
+          "net": 4.83
+        },
+        {
+          "day": 18,
+          "revenue": 3.4,
+          "net": 2.6
+        },
+        {
+          "day": 19,
+          "revenue": 5.22,
+          "net": 4.42
+        },
+        {
+          "day": 20,
+          "revenue": 3.16,
+          "net": 2.36
+        },
+        {
+          "day": 21,
+          "revenue": 7.74,
+          "net": 6.94
+        },
+        {
+          "day": 22,
+          "revenue": 7.45,
+          "net": 6.65
+        },
+        {
+          "day": 23,
+          "revenue": 7.31,
+          "net": 6.51
+        },
+        {
+          "day": 24,
+          "revenue": 3.88,
+          "net": 3.08
+        },
+        {
+          "day": 25,
+          "revenue": 5.72,
+          "net": 4.92
+        },
+        {
+          "day": 26,
+          "revenue": 7.17,
+          "net": 6.37
+        },
+        {
+          "day": 27,
+          "revenue": 3.45,
+          "net": 2.65
+        },
+        {
+          "day": 28,
+          "revenue": 3.36,
+          "net": 2.56
+        },
+        {
+          "day": 29,
+          "revenue": 5.29,
+          "net": 4.49
+        },
+        {
+          "day": 30,
+          "revenue": 3.82,
+          "net": 3.02
+        }
+      ]
+    },
+    "Reddit": {
+      "total_revenue": 200.17,
+      "total_net": 176.17,
+      "avg_daily_net": 5.87,
+      "daily_results": [
+        {
+          "day": 1,
+          "revenue": 8.97,
+          "net": 8.17
+        },
+        {
+          "day": 2,
+          "revenue": 8.35,
+          "net": 7.55
+        },
+        {
+          "day": 3,
+          "revenue": 5.43,
+          "net": 4.63
+        },
+        {
+          "day": 4,
+          "revenue": 3.6,
+          "net": 2.8
+        },
+        {
+          "day": 5,
+          "revenue": 8.21,
+          "net": 7.41
+        },
+        {
+          "day": 6,
+          "revenue": 8.49,
+          "net": 7.69
+        },
+        {
+          "day": 7,
+          "revenue": 3.35,
+          "net": 2.55
+        },
+        {
+          "day": 8,
+          "revenue": 8.83,
+          "net": 8.03
+        },
+        {
+          "day": 9,
+          "revenue": 9.8,
+          "net": 9.0
+        },
+        {
+          "day": 10,
+          "revenue": 5.48,
+          "net": 4.68
+        },
+        {
+          "day": 11,
+          "revenue": 1.56,
+          "net": 0.76
+        },
+        {
+          "day": 12,
+          "revenue": 7.54,
+          "net": 6.74
+        },
+        {
+          "day": 13,
+          "revenue": 6.85,
+          "net": 6.05
+        },
+        {
+          "day": 14,
+          "revenue": 7.02,
+          "net": 6.22
+        },
+        {
+          "day": 15,
+          "revenue": 6.64,
+          "net": 5.84
+        },
+        {
+          "day": 16,
+          "revenue": 8.64,
+          "net": 7.84
+        },
+        {
+          "day": 17,
+          "revenue": 10.3,
+          "net": 9.5
+        },
+        {
+          "day": 18,
+          "revenue": 5.63,
+          "net": 4.83
+        },
+        {
+          "day": 19,
+          "revenue": 6.04,
+          "net": 5.24
+        },
+        {
+          "day": 20,
+          "revenue": 7.41,
+          "net": 6.61
+        },
+        {
+          "day": 21,
+          "revenue": 8.21,
+          "net": 7.41
+        },
+        {
+          "day": 22,
+          "revenue": 4.36,
+          "net": 3.56
+        },
+        {
+          "day": 23,
+          "revenue": 6.66,
+          "net": 5.86
+        },
+        {
+          "day": 24,
+          "revenue": 9.1,
+          "net": 8.3
+        },
+        {
+          "day": 25,
+          "revenue": 7.0,
+          "net": 6.2
+        },
+        {
+          "day": 26,
+          "revenue": 6.57,
+          "net": 5.77
+        },
+        {
+          "day": 27,
+          "revenue": 9.55,
+          "net": 8.75
+        },
+        {
+          "day": 28,
+          "revenue": 2.69,
+          "net": 1.89
+        },
+        {
+          "day": 29,
+          "revenue": 4.16,
+          "net": 3.36
+        },
+        {
+          "day": 30,
+          "revenue": 3.73,
+          "net": 2.93
+        }
+      ]
+    },
+    "知乎": {
+      "total_revenue": 228.02,
+      "total_net": 204.02,
+      "avg_daily_net": 6.8,
+      "daily_results": [
+        {
+          "day": 1,
+          "revenue": 5.88,
+          "net": 5.08
+        },
+        {
+          "day": 2,
+          "revenue": 7.36,
+          "net": 6.56
+        },
+        {
+          "day": 3,
+          "revenue": 6.89,
+          "net": 6.09
+        },
+        {
+          "day": 4,
+          "revenue": 6.55,
+          "net": 5.75
+        },
+        {
+          "day": 5,
+          "revenue": 11.71,
+          "net": 10.91
+        },
+        {
+          "day": 6,
+          "revenue": 3.13,
+          "net": 2.33
+        },
+        {
+          "day": 7,
+          "revenue": 7.03,
+          "net": 6.23
+        },
+        {
+          "day": 8,
+          "revenue": 8.7,
+          "net": 7.9
+        },
+        {
+          "day": 9,
+          "revenue": 10.75,
+          "net": 9.95
+        },
+        {
+          "day": 10,
+          "revenue": 4.44,
+          "net": 3.64
+        },
+        {
+          "day": 11,
+          "revenue": 12.09,
+          "net": 11.29
+        },
+        {
+          "day": 12,
+          "revenue": 2.91,
+          "net": 2.11
+        },
+        {
+          "day": 13,
+          "revenue": 9.99,
+          "net": 9.19
+        },
+        {
+          "day": 14,
+          "revenue": 11.86,
+          "net": 11.06
+        },
+        {
+          "day": 15,
+          "revenue": 9.27,
+          "net": 8.47
+        },
+        {
+          "day": 16,
+          "revenue": 4.85,
+          "net": 4.05
+        },
+        {
+          "day": 17,
+          "revenue": 2.64,
+          "net": 1.84
+        },
+        {
+          "day": 18,
+          "revenue": 4.48,
+          "net": 3.68
+        },
+        {
+          "day": 19,
+          "revenue": 10.25,
+          "net": 9.45
+        },
+        {
+          "day": 20,
+          "revenue": 8.82,
+          "net": 8.02
+        },
+        {
+          "day": 21,
+          "revenue": 10.68,
+          "net": 9.88
+        },
+        {
+          "day": 22,
+          "revenue": 4.42,
+          "net": 3.62
+        },
+        {
+          "day": 23,
+          "revenue": 11.5,
+          "net": 10.7
+        },
+        {
+          "day": 24,
+          "revenue": 11.76,
+          "net": 10.96
+        },
+        {
+          "day": 25,
+          "revenue": 7.76,
+          "net": 6.96
+        },
+        {
+          "day": 26,
+          "revenue": 6.39,
+          "net": 5.59
+        },
+        {
+          "day": 27,
+          "revenue": 4.61,
+          "net": 3.81
+        },
+        {
+          "day": 28,
+          "revenue": 13.19,
+          "net": 12.39
+        },
+        {
+          "day": 29,
+          "revenue": 5.12,
+          "net": 4.32
+        },
+        {
+          "day": 30,
+          "revenue": 2.98,
+          "net": 2.18
+        }
+      ]
+    }
+  },
+  "assumptions": {
+    "cost_per_day": 0.8,
+    "revenue_ranges": "保守估计，基于行业数据",
+    "growth_rates": "考虑内容积累和粉丝增长",
+    "note": "实际收益受多种因素影响，此为模拟数据"
+  }
+}

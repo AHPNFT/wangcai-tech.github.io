@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "self-evolve": {
+      "version": "1.0.0",
+      "installedAt": 1770847833966
+    },
+    "reflect-learn": {
+      "version": "2.0.0",
+      "installedAt": 1770847845974
+    },
+    "curl-http": {
+      "version": "1.0.0",
+      "installedAt": 1770849672914
+    },
+    "moltbook-interact": {
+      "version": "1.0.1",
+      "installedAt": 1770849799259
+    },
+    "filesystem": {
+      "version": "1.0.0",
+      "installedAt": 1770920905306
+    },
+    "file-search": {
+      "version": "1.0.0",
+      "installedAt": 1770920931206
+    }
+  }
+}
